@@ -98,16 +98,16 @@ containing a value of this type.
     public static final class styleable {
         /** Attributes that can be used with a com_admob_android_ads_AdView.
            <p>Includes the following attributes:</p>
-           <table border="2" width="85%" align="center" frame="hsides" rules="all" cellpadding="5">
+           <table>
            <colgroup align="left" />
            <colgroup align="left" />
-           <tr><th>Attribute<th>Summary</tr>
-           <tr><th><code>{@link #com_admob_android_ads_AdView_backgroundColor com.webs.samirapplications.clockpack1:backgroundColor}</code><td></tr>
-           <tr><th><code>{@link #com_admob_android_ads_AdView_isGoneWithoutAd com.webs.samirapplications.clockpack1:isGoneWithoutAd}</code><td></tr>
-           <tr><th><code>{@link #com_admob_android_ads_AdView_keywords com.webs.samirapplications.clockpack1:keywords}</code><td></tr>
-           <tr><th><code>{@link #com_admob_android_ads_AdView_refreshInterval com.webs.samirapplications.clockpack1:refreshInterval}</code><td></tr>
-           <tr><th><code>{@link #com_admob_android_ads_AdView_testing com.webs.samirapplications.clockpack1:testing}</code><td></tr>
-           <tr><th><code>{@link #com_admob_android_ads_AdView_textColor com.webs.samirapplications.clockpack1:textColor}</code><td></tr>
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #com_admob_android_ads_AdView_backgroundColor com.webs.samirapplications.clockpack1:backgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_admob_android_ads_AdView_isGoneWithoutAd com.webs.samirapplications.clockpack1:isGoneWithoutAd}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_admob_android_ads_AdView_keywords com.webs.samirapplications.clockpack1:keywords}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_admob_android_ads_AdView_refreshInterval com.webs.samirapplications.clockpack1:refreshInterval}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_admob_android_ads_AdView_testing com.webs.samirapplications.clockpack1:testing}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_admob_android_ads_AdView_textColor com.webs.samirapplications.clockpack1:textColor}</code></td><td></td></tr>
            </table>
            @see #com_admob_android_ads_AdView_backgroundColor
            @see #com_admob_android_ads_AdView_isGoneWithoutAd
